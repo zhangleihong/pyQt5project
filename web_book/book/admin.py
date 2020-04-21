@@ -15,3 +15,6 @@ admin.site.register(BookInfo, BookInfoAdmin)
 admin.site.site_header = '传智书城'
 admin.site.site_title = '传智书城MIS'
 admin.site.index_title = '欢迎使用传智书城MIS'
+
+# //*[@id="booksort"]/div[2]/dl/dt/a
+# //*[@id="booksort"]/div[2]/dl/dd[1]/em/a
