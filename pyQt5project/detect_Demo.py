@@ -10,6 +10,8 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 import sys
 
 import cv2
+from PyQt5.QtCore import QDateTime
+from PyQt5.QtWidgets import QDateTimeEdit
 
 
 class Ui_MainWindow(QtWidgets.QWidget):
@@ -56,11 +58,17 @@ class Ui_MainWindow(QtWidgets.QWidget):
 
         '''把按键加入到按键布局中'''
 
+        # 默认下，不指定日期的时间，系统会设置一个和本地相同的日期时间格式，时间默认2000年1月1日0时0分0秒
+        self.dateTimeEdit2 = QDateTimeEdit(QDateTime.currentDateTime(), self)
+        # 设置日期时间格式，可以选择/ . : -等符号自定义数据连接符
+        self.dateTimeEdit2.setDisplayFormat("yyyy/MM/dd HH-mm-ss")
+
         self.__layout_fun_button.addWidget(self.button_open_camera)  # 把打开摄像头的按键放到按键布局中
 
         self.__layout_fun_button.addWidget(self.button_close)  # 把退出程序的按键放到按键布局中
 
         '''把某些控件加入到总布局中'''
+        self.__layout_main.addLayout(self.dateTimeEdit2)
 
         self.__layout_main.addLayout(self.__layout_fun_button)  # 把按键布局加入到总布局中
 

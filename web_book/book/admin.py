@@ -8,7 +8,7 @@ class BookInfoAdmin(admin.ModelAdmin):
     list_display = ['id', "category", "small_category", 'name', "author", "store", "price"]
 
 
-# 注册模型类
+# 注册模型类  到admin站点里面去
 admin.site.register(BookInfo, BookInfoAdmin)
 
 
@@ -18,3 +18,4 @@ admin.site.index_title = '欢迎使用传智书城MIS'
 
 # //*[@id="booksort"]/div[2]/dl/dt/a
 # //*[@id="booksort"]/div[2]/dl/dd[1]/em/a
+

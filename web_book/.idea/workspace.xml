@@ -2,12 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bc6cd32-8f6a-420d-a86e-009204659844" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../1.7/otherDemo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.7/projects.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/100000_full.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/DXYArea.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/china_coordinates.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/ndarray数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/pandasDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/机器学习(算法篇)/2.1linear_grade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/机器学习(算法篇)/KNN算法1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/机器学习(算法篇)/鸢尾花数据可视化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/机器学习(算法篇)/鸢尾花种类预测.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数据分析/机器学习(算法篇)/鸢尾花种类预测调优网格搜索.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pyQt5project/detect_Demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pyQt5project/detect_Demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pyQt5project/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pyQt5project/factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QQ图片20171105223108.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/book/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +41,94 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../数据分析/机器学习(算法篇)/2.1linear_grade.py" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.day02">
+    <configuration name="自制视频爬取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web_book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ Internet worm" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ Internet worm/自制视频爬取.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.1linear_grade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web_book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../数据分析/机器学习(算法篇)" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../数据分析/机器学习(算法篇)/2.1linear_grade.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web_book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ Internet worm" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ Internet worm/day02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="web_book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../数据分析" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../数据分析/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="web_book" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,6 +152,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.day02" />
+        <item itemvalue="Python.自制视频爬取" />
+        <item itemvalue="Python.2.1linear_grade" />
+        <item itemvalue="Python.demo" />
         <item itemvalue="Python.manage" />
       </list>
     </recent_temporary>
@@ -88,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586958157302</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="爬虫图书商城">
+      <created>1587459434187</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587459434187</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -96,61 +205,33 @@
     <option name="LAST_COMMIT_MESSAGE" value="爬虫图书商城" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="218" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586951336294">
+    <state x="299" y="71" key="DBNavigator.ProjectSettingsDialog" timestamp="1610005920254">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="218" y="142" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586951336294" />
-    <state x="423" y="21" key="CommitChangelistDialog2" timestamp="1586958154313">
+    <state x="299" y="71" key="DBNavigator.ProjectSettingsDialog/0.0.1536.824@0.0.1536.824" timestamp="1610005920254" />
+    <state width="1515" height="175" key="GridCell.Tab.0.bottom" timestamp="1610005503796">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="423" y="21" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586958154313" />
-    <state x="521" y="175" key="DBNavigator.DatasetFilterDialog" timestamp="1587015273701">
+    <state width="1515" height="175" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610005503796" />
+    <state width="1515" height="175" key="GridCell.Tab.0.center" timestamp="1610005503796">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="521" y="175" key="DBNavigator.DatasetFilterDialog/0.0.1536.824@0.0.1536.824" timestamp="1587015273701" />
-    <state x="407" y="135" width="938" height="558" key="DBNavigator.ProjectSettingsDialog" timestamp="1586955096343">
+    <state width="1515" height="175" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610005503796" />
+    <state width="1515" height="175" key="GridCell.Tab.0.left" timestamp="1610005503795">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="407" y="135" width="938" height="558" key="DBNavigator.ProjectSettingsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586955096343" />
-    <state x="378" y="407" key="DBNavigator.ResultSetRecordViewerDialog" timestamp="1586956188410">
+    <state width="1515" height="175" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610005503795" />
+    <state width="1515" height="175" key="GridCell.Tab.0.right" timestamp="1610005503796">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="378" y="407" key="DBNavigator.ResultSetRecordViewerDialog/0.0.1536.824@0.0.1536.824" timestamp="1586956188410" />
-    <state x="517" y="173" key="FileChooserDialogImpl" timestamp="1587023163782">
+    <state width="1515" height="175" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610005503796" />
+    <state x="272" y="58" key="SettingsEditor" timestamp="1610005033572">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="517" y="173" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587023163782" />
-    <state width="598" height="146" key="GridCell.Tab.0.bottom" timestamp="1587458984782">
+    <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610005033572" />
+    <state x="462" y="336" key="com.intellij.ide.util.TipDialog" timestamp="1610004323073">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="598" height="146" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587458984782" />
-    <state width="598" height="146" key="GridCell.Tab.0.center" timestamp="1587458984782">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="598" height="146" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587458984782" />
-    <state width="598" height="146" key="GridCell.Tab.0.left" timestamp="1587458984782">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="598" height="146" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587458984782" />
-    <state width="598" height="146" key="GridCell.Tab.0.right" timestamp="1587458984782">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="598" height="146" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587458984782" />
-    <state x="243" y="74" key="SettingsEditor" timestamp="1586957975186">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="243" y="74" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586957975186" />
-    <state x="410" y="173" key="Vcs.Push.Dialog.v2" timestamp="1586958160351">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="410" y="173" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1586958160351" />
-    <state x="446" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1587015287884">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="446" y="276" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587015287884" />
-    <state x="502" y="355" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587459386313">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="502" y="355" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1587459386313" />
+    <state x="462" y="336" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1610004323073" />
   </component>
 </project>

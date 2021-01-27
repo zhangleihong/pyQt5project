@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        function test(){
+            window.location.href="/student/login/?uname=zhangsan";
+        }
+    </script>
+</head>
+<body>
+<input type="button" onclick="test()" value="GET请求"/>
+<a href="/student/login/?uname=zhangsan">显示首页内容</a>
+    <form action="/student/login/" method="get">
+        {% csrf_token %}
+        <p>
+            <label>用户名：</label>
+            <input type="text" name="uname">
+        </p>
+
+    </form>
+
+</body>
+</html>
